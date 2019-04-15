@@ -1,2 +1,2 @@
 # mydb
-distribute kv db 
+distribute kv db for metadata
